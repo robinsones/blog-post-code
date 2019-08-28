@@ -1,2 +1,1 @@
-# blog-post-code
-The code from all my R blog post analyses and code
+This a collection of all my R code from my blog posts. If you want to read the full posts with the describing text, please see my blog, [hookedondata.org](hookedondata.org). 
